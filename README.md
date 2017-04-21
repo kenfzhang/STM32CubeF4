@@ -1,4 +1,6 @@
 # STM32CubeF4
+Code for ECE 445 @ UIUC Sp17 Group 87's final project, the Multiple Microphone Array.
+
 Clone of http://www.st.com/web/en/catalog/tools/PF259243
 
 Downloaded using...
